@@ -1,1 +1,5 @@
-OSX 10.9 Mavericks custom setup.
+# OSX 10.9 Mavericks custom setup.
+
+Download and execute it
+
+curl -O https://raw.github.com/enblanco/OSX-Setup/master/setup.sh
