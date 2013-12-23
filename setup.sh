@@ -28,6 +28,9 @@ defaults write ~/Library/Preferences/ByHost/com.apple.systemuiserver.* dontAutoL
 	"/System/Library/CoreServices/Menu Extras/Volume.menu" \
 	"/System/Library/CoreServices/Menu Extras/User.menu" \
 	"/System/Library/CoreServices/Menu Extras/Bluetooth.menu"
+	
+# Minimice on window double click
+defaults write NSGlobalDomain AppleMiniaturizeOnDoubleClick -bool true
 
 # Set sidebar icon size to medium
 #defaults write NSGlobalDomain NSTableViewDefaultSizeMode -int 2
