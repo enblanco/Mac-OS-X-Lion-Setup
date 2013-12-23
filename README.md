@@ -1,18 +1,15 @@
 # OSX Custom Setup
-by Dani Blanco
+
 Currently updated and curated for an OSX 10.9 Mavericks fresh install
 
 
 ## What
 Just my OSX Custom setup files.
 
-WARNING: These are just my own defaults and preferences.
-
-
 
 ## Why?
 
-Automating a new machine setup as simple as running it and reboot
+Automating a new machine setup as simple as running this and reboot.
 
 
 ## Howto
