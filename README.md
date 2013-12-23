@@ -24,6 +24,6 @@ chmod +x setup.sh
 
 ## References
 
-https://github.com/mathiasbynens/dotfiles/blob/master/.osx
-https://github.com/holyjaw/osx
-https://github.com/madsgraphics/osx-clean-install
+- https://github.com/mathiasbynens/dotfiles/blob/master/.osx
+- https://github.com/holyjaw/osx
+- https://github.com/madsgraphics/osx-clean-install
