@@ -1,5 +1,5 @@
 # OSX Custom Setup
-Currently curated for an **OSX 10.9 Mavericks** fresh install
+Currently curated for an **OSX 10.14.1 Mojave** fresh install
 
 ## Why?
 
@@ -11,12 +11,16 @@ I'll try to maintain this as:
  
 
 ## Use:
-By now, after a fresh install just download and run `setup.sh` after making sure everything is up to date.
-
+After a fresh install of macOS:
+```sudo softwareupdate -i -a
+xcode-select --install
+````
 ![Software Update](http://f.cl.ly/items/0O0p1b081B2I421r2z2y/Screen%20Shot%202013-11-23%20at%201.27.56%20PM.png)
 
+After making sure everything is up to date, just download and run `setup.sh` 
+
 ```bash
-curl -O https://raw.github.com/enblanco/osx-setup/master/setup.sh
+curl -O https://raw.githubusercontent.com/enblanco/osx-setup/master/setup.sh
 chmod +x setup.sh
 ./setup.sh
 ````
@@ -24,6 +28,13 @@ chmod +x setup.sh
 
 ## References
 
+- https://dotfiles.github.io
+
+
+## Inspiration
+
 - https://github.com/mathiasbynens/dotfiles/blob/master/.osx
-- https://github.com/holyjaw/osx
 - https://github.com/madsgraphics/osx-clean-install
+- https://github.com/webpro/dotfiles
+
+
