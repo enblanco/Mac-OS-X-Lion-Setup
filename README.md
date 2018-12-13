@@ -13,7 +13,7 @@ I'll try to maintain this as:
 ## Use:
 After a fresh install of macOS:
 ```bash
-sudo softwareupdate -i -a
+softwareupdate -i -a
 xcode-select --install
 ````
 ![Software Update](http://f.cl.ly/items/0O0p1b081B2I421r2z2y/Screen%20Shot%202013-11-23%20at%201.27.56%20PM.png)
