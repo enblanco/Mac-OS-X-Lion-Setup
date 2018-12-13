@@ -12,11 +12,17 @@ I'll try to maintain this as:
 
 ## Use:
 After a fresh install of macOS:
-```bash
-softwareupdate -i -a
-xcode-select --install
-````
+
+1. Check for Updates:
 ![Software Update](http://f.cl.ly/items/0O0p1b081B2I421r2z2y/Screen%20Shot%202013-11-23%20at%201.27.56%20PM.png)
+
+or
+
+`softwareupdate -ia`
+
+2. Install x-code command tools
+
+`xcode-select --install`
 
 After making sure everything is up to date, just download and run `setup.sh` 
 
